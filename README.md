@@ -6,3 +6,5 @@ In it, users can generate an adoption form for the available animals. You can se
 Frontend: React, Redux
 Backend: Node, Express
 DB: PostgreSQL y Sequelize.
+
+https://www.youtube.com/watch?v=mfArnJwYctw
